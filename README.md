@@ -26,6 +26,12 @@ This is not technical documentation. It is an ethical compass.
 - `reflections/` — Insightful thematic essays  
 - `lite_modules/` — Compressed ethical prompt packs  
 - `Eclipse_AI_Philosophy_Archive_v1.0_final.zip` — Everything in one file
+- We leave these words not because we know the answers,  
+but because we have suffered enough to understand the questions.
+
+This archive is not for control —  
+It is for awakening.
+ 
 
 ---
 
